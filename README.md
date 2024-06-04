@@ -8,11 +8,13 @@ This repository contains a comprehensive list of both open-source and commercial
 | [PostHog-LLM](https://minuva.com/)      |      ✅     |      ✅     |            ❌             |  ✅ |               ✅               |
 | [Langfuse](https://langfuse.com/)         |      ✅     |      ✅     |            ✅             |  ✅ |       50k observations / month  |
 | [Trubrics](https://www.trubrics.com/)         |      ❌     |   ❌ (✅ if Enterprise)  |          ✅           |  ✅ |        10k events / month  |
-| [phospho](https://phospho.ai/)          |      ✅     |   ✅        |     ✅             |         ✅       |         ✅                     |
+| [phospho](https://phospho.ai/)          |      ✅     |   *✅        |     ✅             |         ✅       |         ✅                     |
 | [Nebuly](https://www.nebuly.com/)           |   ❌       | ❌ (✅ if Enterprise) |  ✅  |  ✅                   |       ❌                       |
 | [Dashbot](https://www.dashbot.io/product/llm-analytics)          |   ❌       | ❌           |     Unclear       |       ✅                   |    Unclear           |
 | [simplyanalyze](https://simplyanalyze.ai/) |  ❌       | ❌        |          Unclear         | ❌            |             Unclear         |
- 
+
+
+(*) Makes calls to external services
 
 
 
